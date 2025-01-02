@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>parallex</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section class="img1">
+        <div class="txtbox1">
+            <span class="txt1">PARALLEX WEBSITE</span>
+        </div>
+    </section>
+    <section class="section section-light">
+        <h2>SECTION 1</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem culpa tempora, soluta, atque, debitis unde odio repellendus aliquam animi velit eius voluptas? Id soluta sapiente voluptatibus dolorem error esse provident?</p>
+     </section>
+    <section class="img2">
+        <div class="txtbox2"><span class="txt2">YO MAN</span></div>
+    </section>
+    <section class="section section-dark">
+        <h2>SECTION 2</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem facilis veritatis et harum, enim commodi esse voluptas consectetur inventore. A, quibusdam voluptate animi quas quae hic doloremque doloribus vel enim!</p>
+    </section>
+    <section class="img3">
+        <div class="txtbox3"><span class="txt3">NO MAN</span></div>
+    </section>
+    <section class="section section-dark">
+        <h2>SECTION 3</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam animi nisi magni dicta quae laboriosam? Velit reiciendis beatae officiis odit cumque autem, harum animi consequatur quidem quae non fuga quas!</p>
+    </section>
+    <section class="img1">
+        <div class="txtbox1"><span class="txt1">yasss</span></div>
+    </section>
+</body>
+</html>
